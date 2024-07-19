@@ -1,0 +1,28 @@
+{
+    "appliances": [
+      {
+        "id": "1",
+        "type": "Light",
+        "status": "On",
+        "icon": "https://w7.pngwing.com/pngs/639/414/png-transparent-lightbulb-bright-yellow-light-vector-idea-thumbnail.png",
+        "value": true,
+        "params": ["Brightness", "Color", "Symbol"],
+        "params_value": [80, "Warm White", "%"],
+        "initial": 80,
+        "min": 0,
+        "max": 100
+      },
+      {
+        "id": "2",
+        "type": "Fan",
+        "status": "Off",
+        "icon": "https://p7.hiclipart.com/preview/703/797/245/computer-icons-computer-fan-hvac-fan.jpg",
+        "value": false,
+        "params": ["Speed", "Oscillation", "Symbol"],
+        "params_value": [3, "true", ""],
+        "initial": 3,
+        "min": 0,
+        "max": 5
+      }
+    ]
+  }
