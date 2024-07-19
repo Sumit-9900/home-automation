@@ -50,4 +50,3 @@ The Mini Home Automation App allows users to control basic functionalities of sm
 2. Provider is used for state management due to its simplicity and ease of use in Flutter applications.
 
 ## Video Demostration
-
